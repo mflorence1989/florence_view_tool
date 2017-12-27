@@ -21,8 +21,9 @@ Or install it yourself as:
     $ gem install florence_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+FlorenceViewTool::Renderer.copyright 'Mario Florence', 'All rights reserved'
+```
 
 ## Development
 
