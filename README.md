@@ -1,8 +1,8 @@
 # FlorenceViewTool
 
-Various view specific methods for applications I use.
+> Various view specific methods for applications I use.
 
-TODO: Delete this and the text above, and describe your gem
+
 
 ## Installation
 
